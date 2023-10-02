@@ -2,5 +2,5 @@
 
 
 <p>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12154488927&count=3">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12154488927&count=5">
 </p>
