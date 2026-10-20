@@ -1,5 +1,1 @@
-<div align="center">
-<picture>
-  <img alt="Pamela Sanchez — README" src="https://raw.githubusercontent.com/pamelasann/pamelasann/main/dark.svg">
-</picture>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=500&pause=700&color=4493F8&width=435&lines=Hi%2C+I'm+Pamela;software+engineer+in+Mexico)](https://git.io/typing-svg)
